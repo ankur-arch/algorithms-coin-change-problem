@@ -1,0 +1,6 @@
+COIN_CHANGE.exe
+COIN_CHANGE.o
+CoinChange.dev
+CoinChange.exe
+CoinChange.layout
+Makefile.win
